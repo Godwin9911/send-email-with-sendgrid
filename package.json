@@ -1,0 +1,16 @@
+{
+  "name": "twilio-send-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send-email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "dotenv": "^7.0.0"
+  }
+}
